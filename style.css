@@ -47,7 +47,7 @@
   }
   
   .tecla {
-    background-color: var(--branca);
+    background-image: url(image/aplauso.sgv);
     /*cor de fundo da tecla*/
     border-radius: 30px;
     /*arredonda a borda da tecla*/
